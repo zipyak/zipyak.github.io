@@ -13,8 +13,7 @@ description: 집약 어플리케이션 블로그
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://cdn.pixabay.com/photo/2017/05/15/21/58/drug-icon-2316244_1280.png
-
+avatar: ./images/profile_image.png
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete

@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## 소개글
+‘집약어플’은 약 정보를 스스로 확인 할 수 있는 시각장애인 의약품정보검색 어플로써 ‘의약 정보 접근’의 문제를 해결하여 안전한 의약품 사용과 이에 따른 건강증진을 도모하고자 합니다. 이 어플은 중앙대학교학생 3명으로 구성된 ‘시각의 청각화’팀이 2019 현대오토에버 배리어프리 앱 개발 콘테스트에 공모한 작품으로서 디지털 기술로 사회적 가치를 추구하는 대학생들이 장애인들의 생활을 돕는 앱입니다.  
+<br>
+앱 또는 ‘시각의 청각화’ 팀에 대해서 궁금한 점이 있거나 문의하실 사항이 있으시면 아래에 있는 주소로 이메일을 남겨주시길 바랍니다.  
+<br>
 
-### More Information
+## 서비스 소개  
+집약 - 시각장애인 의약제품 구분 서비스  
+<br>
+앞을 볼수 없는 시각장애인들에게 약상자란 정체를 알 수 없는 각진 종이상자에 불과합니다. 감기에 걸렸을 때, 어떤 상자 속 약을 먹어야 할지 상자의 겉모양만으로는 효능을 알 수 없는 어려움이 있습니다.  
+<br>
+그래서 시각장애인 의약제품 구분 서비스인 '집약'은  약물정보를 스마트폰 앱을 통해 전달함으로써 ‘의약정보 접근’의 문제를 해결하여 안전한 의약품 사용과 이에 따른 건강증진을 도모하고자 합니다.  
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### 이메일  
+[zipyak.service@google.com](mailto:zipyak.service@google.com)  
